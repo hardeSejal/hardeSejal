@@ -1,4 +1,7 @@
 <h1 align="center">Hey 👋, I'm Sejal Harde</h1>
+<p align="right">
+<img src="[GIF_LINK](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamdkMWV5NjZ4cmNqdzUxZWYwYjNhb2h5cWk0Y2xyM3pwZXNvd2t0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dPQA1xLL3WMNsVK6b1/giphy.gif)" width="350"/>
+</p>
 <h3 align="center">Frontend / React Developer</h3>
 
 <p align="center">
